@@ -5,10 +5,10 @@ A bot collecting videos, compiling them and turning into a compilation video.
 ## Basic idea about the program i am going to write
 
 Main target : 
- -> thumbnail generator. 
- -> compilation of videos from different subreddit. for example r/valorant or r/csgo ( gaming content), r/publicfreakout ( absurd content), r/someothersubreddit
- -> compilation of meme photos( who knows i might even have to create a meme classifier), extract text from images, convert text to speech, stich everything together to create video. 
- -> upload to youtube functionality
+ 1. -> thumbnail generator. 
+ 2. -> compilation of videos from different subreddit. for example r/valorant or r/csgo ( gaming content), r/publicfreakout ( absurd content), r/someothersubreddit
+ 3. -> compilation of meme photos( who knows i might even have to create a meme classifier), extract text from images, convert text to speech, stich everything together to create video. 
+ 4. -> upload to youtube functionality
  
 ### What is the incentive
 A bot that will upload videos to youtube. Around 5 per day( youtube api only allows upto 5 with it credit system).
